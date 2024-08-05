@@ -878,7 +878,7 @@ strong {
   BANNER        
 -----------------------------------------*/
 .banner-section {
-  background-image: url('..images/high-angle-woman-cleaning-floors.webp');
+  background-image: url('../images/high-angle-woman-cleaning-floors.webp');
   background-repeat: no-repeat;
   background-position: top -150px center;
   background-size: cover;
